@@ -14,6 +14,19 @@ This repository contains links of all the example apps demonstrating features/fu
 <img src="https://github.com/hi-manshu/Flutter-Chat-UI/blob/master/chat.jpg" height="300em">
 <img src="https://github.com/hi-manshu/Flutter-Crypto-App/blob/master/assets/crypto.jpg" height="300em">.
 
+## Example Apps (Source Code + YouTube Link)
+
+1.  [Flutter Login UI](https://github.com/hi-manshu/Flutter-Login-Screen)
+
+1.  [Flutter Calculator](https://github.com/hi-manshu/Flutter-Calculator)
+
+1.  [Flutter Chat UI](https://github.com/hi-manshu/Flutter-Chat-UI)
+
+1.  [Flutter KryptoKoin](https://github.com/hi-manshu/Flutter-Crypto-App)
+
+1.  [Flutter API Request](https://github.com/hi-manshu/Flutter-API-Request)
+
+
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
