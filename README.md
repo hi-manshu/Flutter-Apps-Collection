@@ -12,6 +12,23 @@ This repository contains links of all the example apps demonstrating features/fu
 ### Some Screenshots
 <img src="https://github.com/hi-manshu/Flutter-Login-Screen/blob/master/assets/Screenshot_20180421-173154.jpg" height="300em"><img src="https://github.com/hi-manshu/Flutter-Calculator/blob/master/calc.jpg" height="300em">
 <img src="https://github.com/hi-manshu/Flutter-Chat-UI/blob/master/chat.jpg" height="300em">
-<img src="https://github.com/hi-manshu/Flutter-Crypto-App/blob/master/assets/crypto.jpg" height="300em"">.
+<img src="https://github.com/hi-manshu/Flutter-Crypto-App/blob/master/assets/crypto.jpg" height="300em">.
+
+# Pull Requests
+
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
+
+1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of Android Studio `CMD`+`Option`+`L` on Mac and `CTRL` + `ALT` + `L` on Linux + Windows .
+2.  If its a feature, bugfix, or anything please only change code to what you specify.
+3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
+4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
+5.  Check for existing [issues](https://github.com/hi-manshu/Flutter-Apps-Collection/issues) first, before filing an issue.
+6.  Make sure you follow the set standard as all other projects in this repo do
+7.  Have fun!
+
+### Created & Maintained By
+
+[Himanshu Singh](https://github.com/hi-manshu)
+([Insta](https://www.instagram.com/hi_man_shoe))
 
 
