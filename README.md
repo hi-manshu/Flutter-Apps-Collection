@@ -15,7 +15,7 @@ This repository contains links of all the example apps demonstrating features/fu
 <img src="https://github.com/hi-manshu/Flutter-Crypto-App/blob/master/assets/crypto.jpg" height="300em">
 <img src="https://github.com/hi-manshu/Flutter-Drawer/blob/master/assets/ss.jpg" height="300em">.
 
-## Example Apps (Source Code + YouTube Link)
+## Example Apps (Source Code)
 
 1.  [Flutter Login UI](https://github.com/hi-manshu/Flutter-Login-Screen)
 
