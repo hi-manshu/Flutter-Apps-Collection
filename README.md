@@ -1,7 +1,7 @@
 # Flutter-Apps-Collection
 This is a repository of a collection of apps made in flutter for learning purpose
 
-### Show some :heart: and star the repo to support the project
+### Show some :heart: and :star: the repo to support the project
 
 This repository contains links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
