@@ -17,7 +17,7 @@ This repository contains links of all the example apps demonstrating features/fu
 <img src ="https://github.com/hi-manshu/Flutter-Snackbar/blob/master/assets/snackbar.jpg" height = "300em">
 .
 
-## Example Apps (Source Code)
+## Apps build in Flutter (Source Code)
 
 1.  [Flutter Login UI](https://github.com/hi-manshu/Flutter-Login-Screen)
 
