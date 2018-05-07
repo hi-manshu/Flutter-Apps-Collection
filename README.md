@@ -1,9 +1,7 @@
 # Flutter-Apps-Collection
 This is a repository of a collection of apps made in flutter for learning purpose
 
-### Show some :heart: and :star: the repo to support the project
 
-This repository contains links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
 ## Github ID
 
@@ -27,11 +25,17 @@ This repository contains links of all the example apps demonstrating features/fu
 
 1.  [Flutter KryptoKoin](https://github.com/hi-manshu/Flutter-Crypto-App)
 
+1.  [Flutter CryptoKoin- using MVP and Dependency Injection](https://github.com/hi-manshu/Flutter-Crypto)
+
 1.  [Flutter API Request](https://github.com/hi-manshu/Flutter-API-Request)
 
 1.  [Flutter Drawer App](https://github.com/hi-manshu/Flutter-Drawer)
 
 1.  [Flutter Snackbar Widget](https://github.com/hi-manshu/Flutter-SnackBar) 
+
+### Show some :heart: and :star: the repo to support the project
+
+This repository contains links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
 
 # Pull Requests
