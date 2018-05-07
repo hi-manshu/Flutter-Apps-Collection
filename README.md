@@ -25,13 +25,14 @@ This is a repository of a collection of apps made in flutter for learning purpos
 
 1.  [Flutter KryptoKoin](https://github.com/hi-manshu/Flutter-Crypto-App)
 
-1.  [Flutter CryptoKoin- using MVP and Dependency Injection](https://github.com/hi-manshu/Flutter-Crypto)
-
 1.  [Flutter API Request](https://github.com/hi-manshu/Flutter-API-Request)
 
 1.  [Flutter Drawer App](https://github.com/hi-manshu/Flutter-Drawer)
 
-1.  [Flutter Snackbar Widget](https://github.com/hi-manshu/Flutter-SnackBar) 
+1.  [Flutter Snackbar Widget](https://github.com/hi-manshu/Flutter-SnackBar)
+
+1.  [Flutter CryptoKoin- using MVP and Dependency Injection](https://github.com/hi-manshu/Flutter-Crypto)
+
 
 ### Show some :heart: and :star: the repo to support the project
 
