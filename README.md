@@ -16,6 +16,7 @@ This is a repository of a collection of apps made in flutter for learning purpos
 .
 
 ## Apps build in Flutter (Source Code)
+### You should follow this Sequence if you are learning from this repository
 
 1.  [Flutter Login UI](https://github.com/hi-manshu/Flutter-Login-Screen)
 
