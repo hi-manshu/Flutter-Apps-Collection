@@ -1,6 +1,6 @@
 # Flutter-Apps-Collection
 This is a repository of a collection of apps made in flutter for learning purpose
-
+<img src = "https://github.com/hi-manshu/Flutter-Apps-Collection/blob/master/flutterheader.png">
 
 ### Some Screenshots
 <img src="https://github.com/hi-manshu/Flutter-Login-Screen/blob/master/assets/Screenshot_20180421-173154.jpg" height="300em"><img src="https://github.com/hi-manshu/Flutter-Calculator/blob/master/calc.jpg" height="300em">
