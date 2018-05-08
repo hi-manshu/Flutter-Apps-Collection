@@ -30,7 +30,9 @@ This is a repository of a collection of apps made in flutter for learning purpos
 
 1.  [Flutter CryptoKoin- using MVP and Dependency Injection](https://github.com/hi-manshu/Flutter-Crypto)
 
-1.  [Flutter SwipeToDismiss](https://github.com/hi-manshu/FlutterSwipeToDismiss)
+1.  [Flutter SwipeToDismiss](https://github.com/hi-manshu/FlutterSwipeToDismiss)   
+
+More to follow ......
 
 
 ### Show some :heart: and :star: the repo to support the project
