@@ -9,7 +9,7 @@ This is a repository of a collection of apps made in flutter for learning purpos
 <img src="https://github.com/hi-manshu/Flutter-Drawer/blob/master/assets/ss.jpg" height="300em">
 <img src ="https://github.com/hi-manshu/Flutter-Snackbar/blob/master/assets/snackbar.jpg" height = "300em">
 <img src = "https://github.com/hi-manshu/FlutterSwipeToDismiss/blob/master/assets/swipetodismiss.jpg" height ="300em">
-<img src ="https://github.com/hi-manshu/flutterclipping/blob/master/assets/clipping.jpg" height = "300em">
+<img src ="https://github.com/hi-manshu/Flutter-Clipping/blob/master/assets/clipping.jpg" height = "300em">
 .
 
 ## Apps build in Flutter (Source Code)
@@ -33,7 +33,7 @@ This is a repository of a collection of apps made in flutter for learning purpos
 
 1.  [Flutter SwipeToDismiss](https://github.com/hi-manshu/FlutterSwipeToDismiss)   
 
-1.  [Flutter Clipping](https://github.com/hi-manshu/Flutter-Clipping)
+1.  [Flutter Clipping](https://github.com/hi-manshu/Flutter-Clipping/)
 
 ### More to follow ......
 
