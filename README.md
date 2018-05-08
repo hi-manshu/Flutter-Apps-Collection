@@ -32,7 +32,7 @@ This is a repository of a collection of apps made in flutter for learning purpos
 
 1.  [Flutter SwipeToDismiss](https://github.com/hi-manshu/FlutterSwipeToDismiss)   
 
-More to follow ......
+### More to follow ......
 
 
 ### Show some :heart: and :star: the repo to support the project
