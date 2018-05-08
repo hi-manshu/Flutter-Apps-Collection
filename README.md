@@ -2,11 +2,6 @@
 This is a repository of a collection of apps made in flutter for learning purpose
 
 
-
-## Github ID
-
-[Himanshu Singh](https://www.github.com/hi-manshu) - Just another developer
-
 ### Some Screenshots
 <img src="https://github.com/hi-manshu/Flutter-Login-Screen/blob/master/assets/Screenshot_20180421-173154.jpg" height="300em"><img src="https://github.com/hi-manshu/Flutter-Calculator/blob/master/calc.jpg" height="300em">
 <img src="https://github.com/hi-manshu/Flutter-Chat-UI/blob/master/chat.jpg" height="300em">
