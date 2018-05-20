@@ -38,8 +38,6 @@ This is a repository of a collection of apps made in flutter for learning purpos
 
 1. [Flutter Music App](https://github.com/hi-manshu/Flutter-Music-App/)
 
-### More to follow ......
-
 
 ### Show some :heart: and :star: the repo to support the project
 
