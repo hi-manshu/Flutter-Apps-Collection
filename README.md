@@ -12,7 +12,10 @@ This is a repository of a collection of apps made in flutter for learning purpos
 <img src ="https://github.com/hi-manshu/Flutter-Clipping/blob/master/assets/clipping.jpg" height = "300em">.
 <img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss2.jpg" height = "300em">.
 <img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss3.jpg" height = "300em">.
-
+<img src="https://github.com/imSanjaySoni/BMI-Calculator-with-flutter/blob/master/one.png" height = "300em">.
+<img src="https://github.com/imSanjaySoni/BMI-Calculator-with-flutter/blob/master/two.png" height = "300em">.
+<img src="https://github.com/imSanjaySoni/flutter_ui/blob/master/Screenshot_2019-09-07-11-01-12-435_com.example.app.png" height= "300em">.
+<img src="https://github.com/imSanjaySoni/News-app-with-flutter/blob/master/two.png" height= "300em">.
 ## Apps build in Flutter (Source Code)
 ### You should follow this Sequence if you are learning from this repository
 
@@ -37,6 +40,12 @@ This is a repository of a collection of apps made in flutter for learning purpos
 1.  [Flutter Clipping](https://github.com/hi-manshu/Flutter-Clipping/)
 
 1. [Flutter Music App](https://github.com/hi-manshu/Flutter-Music-App/)
+
+1. [Flutter BMI Calculator](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
+
+1. [Flutter News App](https://github.com/imSanjaySoni/News-app-with-flutter)
+
+1. [Flutter Feed UI](https://github.com/imSanjaySoni/flutter_ui)
 
 
 ### Show some :heart: and :star: the repo to support the project
